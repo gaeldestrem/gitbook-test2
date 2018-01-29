@@ -11,3 +11,5 @@
   * [Page 5](page-4/page-5.md)
   * [Page 41](page-4/page-41.md)
 
+* [Page 6](page-6.md)
+
