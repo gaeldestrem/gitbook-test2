@@ -12,6 +12,7 @@
   * [Page 41](page-4/page-41.md)
 
 * [Page 6](page-6.md)
-* [Page 7](page-7.md)
-* [Page 71](page-71.md)
+* [Page 7](page-7/README.md)
+
+  * [Page 71](page-7/page-71.md)
 
