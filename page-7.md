@@ -12,8 +12,9 @@ content Heading 2
 * blabla
 * zbra
 
-```text
-const test = 'test';console.log(`hello ${test}`);
+```javascript
+const test = 'test';
+console.log(`hello ${test}`);
 ```
 
 > Beautiful quote blablalbablabla
