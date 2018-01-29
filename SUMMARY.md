@@ -8,7 +8,6 @@
 
 * [Page 4](page-4/README.md)
 
+  * [Page 5](page-4/page-5.md)
   * [Page 41](page-4/page-41.md)
-
-* [Page 5](page-5.md)
 
