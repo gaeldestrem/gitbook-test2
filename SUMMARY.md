@@ -1,4 +1,4 @@
 # Table of contents
 
-* gitbook-test2
+* [gitbook-test2](README.md)
 
